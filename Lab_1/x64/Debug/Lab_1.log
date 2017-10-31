@@ -1,0 +1,37 @@
+﻿  Node.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  Polygon.cpp
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\polygon.cpp(51): warning C4305: '+=' : troncation de 'double' à 'float'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\polygon.cpp(56): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\polygon.cpp(72): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\polygon.cpp(90): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Path.cpp
+  NodeMap.cpp
+  Lab_1.cpp
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(89): warning C4251: 'Axis::results' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(90): warning C4251: 'Axis::ErrorMsg' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(92): warning C4251: 'Axis::CamIpAdress' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(95): warning C4251: 'Axis::video_capture' : class 'cv::VideoCapture' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+  c:\opencv\build\include\opencv2\videoio.hpp(602): note: voir la déclaration de 'cv::VideoCapture'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(96): warning C4251: 'Axis::UserName' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\axiscommunication.h(97): warning C4251: 'Axis::Password' : class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' nécessite une interface DLL pour être utilisé(e) par les clients de class 'Axis'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(65): warning C4305: 'argument' : troncation de 'double' à 'float'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(67): warning C4305: 'argument' : troncation de 'double' à 'float'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(81): warning C4305: 'argument' : troncation de 'double' à 'float'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(83): warning C4305: 'argument' : troncation de 'double' à 'float'
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(171): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(173): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(185): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(193): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(197): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(198): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(206): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(209): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(223): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+z:\charles-isaac\partage\tp3 (huge dilate cuda version) v2 - copie\lab_1\lab_1\lab_1.cpp(225): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+  Lab_1.vcxproj -> Z:\Charles-Isaac\Partage\TP3 (huge dilate cuda version) v2 - Copie\Lab_1\x64\Debug\Lab_1.exe
